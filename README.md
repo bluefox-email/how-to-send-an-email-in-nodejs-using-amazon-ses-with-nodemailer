@@ -1,0 +1,1 @@
+# how-to-send-an-email-in-nodejs-using-amazon-ses-with-nodemailer
