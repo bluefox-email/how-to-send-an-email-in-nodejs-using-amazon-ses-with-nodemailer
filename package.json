@@ -1,6 +1,7 @@
 {
   "name": "how-to-send-an-email-in-nodejs-using-amazon-ses-with-nodemailer",
   "version": "0.0.1",
+  "type": "module",
   "description": "Code example for the article titled \"How to Send an Email in Node.js Using Amazon SES With Nodemailer\"",
   "main": "index.js",
   "scripts": {
